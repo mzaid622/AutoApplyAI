@@ -1,4 +1,4 @@
 .env
-resumes\
+resumes/
 .venv/
 hr_email.xlsx
